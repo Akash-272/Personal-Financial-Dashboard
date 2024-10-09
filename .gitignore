@@ -1,2 +1,4 @@
 .vs/
 Personal Financial Dashboard/obj/
+*.cache
+Personal Financial Dashboard/obj/Debug/net8.0/*
