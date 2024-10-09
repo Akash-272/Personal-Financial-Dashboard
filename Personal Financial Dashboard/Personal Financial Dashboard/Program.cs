@@ -1,11 +1,21 @@
+using Microsoft.EntityFrameworkCore;
+using Personal_Financial_Dashboard.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddDbContext<PFDAuthDbContext>(options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString("PFDAuthConnectionString")));
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+
+
+
 
 var app = builder.Build();
 
@@ -17,6 +27,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseRouting();
 
 app.UseAuthorization();
 
