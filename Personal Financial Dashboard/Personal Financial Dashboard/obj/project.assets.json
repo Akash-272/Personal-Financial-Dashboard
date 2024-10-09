@@ -428,19 +428,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\analawade\\.nuget\\packages\\": {}
+    "C:\\Users\\pharer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\analawade\\source\\repos\\Personal-Financial-Dashboard\\Personal Financial Dashboard\\Personal Financial Dashboard\\Personal Financial Dashboard.csproj",
+      "projectUniqueName": "C:\\Users\\pharer\\source\\repos\\Personal Financial Dashboard\\Personal Financial Dashboard\\Personal Financial Dashboard\\Personal Financial Dashboard.csproj",
       "projectName": "Personal Financial Dashboard",
-      "projectPath": "C:\\Users\\analawade\\source\\repos\\Personal-Financial-Dashboard\\Personal Financial Dashboard\\Personal Financial Dashboard\\Personal Financial Dashboard.csproj",
-      "packagesPath": "C:\\Users\\analawade\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\analawade\\source\\repos\\Personal-Financial-Dashboard\\Personal Financial Dashboard\\Personal Financial Dashboard\\obj\\",
+      "projectPath": "C:\\Users\\pharer\\source\\repos\\Personal Financial Dashboard\\Personal Financial Dashboard\\Personal Financial Dashboard\\Personal Financial Dashboard.csproj",
+      "packagesPath": "C:\\Users\\pharer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pharer\\source\\repos\\Personal Financial Dashboard\\Personal Financial Dashboard\\Personal Financial Dashboard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\analawade\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pharer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
