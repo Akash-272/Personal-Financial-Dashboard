@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Personal Financial Dashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< Updated upstream
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4760c3da53e988048048b33490abc5a2cd6b4ca")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40f9a6a8965b543dc9c0d81bd24c0264b27153b2")]
->>>>>>> Stashed changes
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb79f18abffcd682c79142f6ffb196a069082c89")]
 [assembly: System.Reflection.AssemblyProductAttribute("Personal Financial Dashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Personal Financial Dashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
